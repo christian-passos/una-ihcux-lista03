@@ -1,10 +1,7 @@
 # una-ihcux-lista03
 Atividade UNA (Lista 03) - Interação Humano Computador
 
-# una-ihcux-lista02
-Atividade UNA (Lista 02) - Interação Humano Computador UX
-
-# 🚀 Minha Primeira Experiência com .NET CLI
+# 🚀 Minha Segunda Experiência com .NET CLI
 
 Nesta missão, deixei de ser apenas um usuário de pastas e me tornei um desenvolvedor que fala a língua do SDK.
 
